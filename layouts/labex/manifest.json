@@ -2,6 +2,7 @@
   "title": "LABEX",
   "thumbnail": "thumbnail.gif",
   "template": "template.html",
+  "defaultMedia": "http://www.lesmecaniques.net/labex/site/videos/17NOVOdileNouvelVO.webm",
   "files": [
     "template.html",
     "thumbnail.gif"
